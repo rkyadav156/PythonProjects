@@ -11,3 +11,4 @@ for i in range(0,n):
 avg=sum(a)/n
 #Getting the result printed
 print("Average of elements in the list",round(avg,2))
+#Ended Here
