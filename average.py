@@ -12,3 +12,4 @@ avg=sum(a)/n
 #Getting the result printed
 print("Average of elements in the list",round(avg,2))
 #Ended Here
+#this is fixed by master on dev branch
